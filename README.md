@@ -18,5 +18,3 @@ All the code is in the src folder. The instructions are in the static folder.
 
 ## Authors
 Authors  : **Naïm LEHBIBEN - Joudy BENKADDOUR**
-
-# Machine-Learning
