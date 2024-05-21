@@ -1,1 +1,0 @@
-This folder contains the data used in the project, you need to put the 4 csv in this folder
