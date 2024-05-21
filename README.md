@@ -10,7 +10,7 @@ Link of the challenge : https://challengedata.ens.fr/participants/challenges/146
 
 Run the file  `install_for_windows.bat`, it will install dependencies and create a virtual environment for the project.
 
-All the code is in the src folder. The instructions are in the static folder.
+All the code is in the 'src' folder. The instructions are in the 'static' folder.
 
 ## License
 
