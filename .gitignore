@@ -152,4 +152,4 @@ cython_debug/
 .vscode
 
 # Ignore only CSV files in src/data
-src/data/*.csv
+data/*.csv
