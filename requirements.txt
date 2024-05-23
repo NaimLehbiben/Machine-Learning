@@ -2,3 +2,7 @@ pandas
 numpy
 tensorflow
 sklearn
+xgboost
+matplotlib
+seaborn
+shap
